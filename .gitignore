@@ -1,3 +1,1 @@
-/runtime/cache/*
-/runtime/log/*
-/runtime/temp/*
+/application/database.php
